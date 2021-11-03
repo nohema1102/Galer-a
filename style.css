@@ -1,0 +1,20 @@
+.see-more{
+position: absolute;
+top: 50%;
+left: 50%;
+margin-left: -120px;
+
+}
+.button-image-container{
+    position: relative;
+
+
+}
+.galeria{
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+}
+    
